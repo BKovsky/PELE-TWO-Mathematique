@@ -11,7 +11,7 @@ Tout et n'importe quoi sur les mathématiques
 [Lien3](url)
 
 ### Logique Booléenne
-[La vie de George Boole](https://www.youtube.com/watch?v=68RG57jOF0c)<br>
+[<b>La vie de George Boole</b>](https://www.youtube.com/watch?v=68RG57jOF0c)<br>
 Description : Documentaire ARTE<br>
 Type : Vidéo<br>
 Durée : 58 min<br>
