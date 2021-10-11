@@ -17,8 +17,11 @@ Type : Vidéo<br>
 Durée : 58 min<br>
 Langue : Anglais / Sous-titré en français<br>
 
-<b>Devoir du 12.10.2021 sur les portes logiques de Boole</b>
-[Exercice de logique Booléenne - niveau 5.xlsx](https://github.com/BKovsky/PELE-TWO-Mathematique/files/7324889/Exercice.de.logique.Booleenne.-.niveau.5.xlsx)
+<b>Devoir du 12.10.2021 sur les portes logiques de Boole</b><br>
+[Exercice de logique Booléenne - niveau 5.xlsx](https://github.com/BKovsky/PELE-TWO-Mathematique/files/7324889/Exercice.de.logique.Booleenne.-.niveau.5.xlsx)<br>
+Description : un tableau récapitulatif des fonctions logiques et 2 logigrammes analysés<br>
+Type : Excel<br>
+Langue : Français
 
 <br>
 <br>
