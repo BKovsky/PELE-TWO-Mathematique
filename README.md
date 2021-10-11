@@ -1,14 +1,14 @@
 # PELE-TWO-Mathématique
-Tout et n'importe quoi sur l'électrotechnique
+Tout et n'importe quoi sur les mathématiques
 
 ### Algèbre
-[Algebre](url)
+[Lien1](url)
 
 ### Statistique
-[Statistique](url)
+[Lien2](url)
 
 ### Bases 2, 8, 16
-[Base](url)
+[Lien3](url)
 
 ### Logique Booléenne
 [La vie de George Boole](https://www.youtube.com/watch?v=68RG57jOF0c)<br>
