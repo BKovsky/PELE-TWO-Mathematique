@@ -18,8 +18,7 @@ Durée : 58 min<br>
 Langue : Anglais / Sous-titré en français<br>
 
 <b>Devoir du 12.10.2021 sur les portes logiques de Boole</b>
-[Exercice de logique Booléenne - niveau 5.xlsx]<br>
-(https://github.com/BKovsky/PELE-TWO-Mathematique/files/7324889/Exercice.de.logique.Booleenne.-.niveau.5.xlsx)
+[Exercice de logique Booléenne - niveau 5.xlsx](https://github.com/BKovsky/PELE-TWO-Mathematique/files/7324889/Exercice.de.logique.Booleenne.-.niveau.5.xlsx)
 
 <br>
 <br>
