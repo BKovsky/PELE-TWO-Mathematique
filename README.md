@@ -1,4 +1,4 @@
-# PELE-TWO-Mathematiques
+# PELE-TWO-Mathématique
 Tout et n'importe quoi sur l'électrotechnique
 
 ### Algèbre
