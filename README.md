@@ -21,5 +21,6 @@ Langue : Anglais / Sous-titré en français<br>
 [Exercice de logique Booléenne - niveau 5.xlsx]<br>
 (https://github.com/BKovsky/PELE-TWO-Mathematique/files/7324889/Exercice.de.logique.Booleenne.-.niveau.5.xlsx)
 
-
+<br>
+<br>
 [Retour à la page d'accueil](https://bkovsky.github.io/PELE-TWO/)
