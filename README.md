@@ -8,7 +8,11 @@ Tout et n'importe quoi sur les mathématiques
 [Lien2](url)
 
 ### Bases 2, 8, 16
-[Lien3](url)
+<b>Devoir du 12.10.2021 sur les conversions de bases décimales & binaires</b><br>
+[Conversions de bases.xlsx](https://github.com/BKovsky/PELE-TWO-Mathematique/files/7332714/Conversions.de.bases.xlsx)
+Description : Création de convertisseurs de bases 10 et 2 sur Excel<br>
+Type : Excel<br>
+Langue : Français
 
 ### Logique Booléenne
 [<b>La vie de George Boole</b>](https://www.youtube.com/watch?v=68RG57jOF0c)<br>
