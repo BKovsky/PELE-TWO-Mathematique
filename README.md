@@ -9,7 +9,7 @@ Tout et n'importe quoi sur les mathématiques
 
 ### Bases 2, 8, 16
 <b>Devoir du 12.10.2021 sur les conversions de bases décimales & binaires</b><br>
-[Conversions de bases.xlsx](https://github.com/BKovsky/PELE-TWO-Mathematique/files/7332714/Conversions.de.bases.xlsx)<br>
+[Conversions de bases.xlsx](https://github.com/BKovsky/PELE-TWO-Mathematique/files/7332763/Conversions.de.bases.xlsx)<br>
 Description : Création de convertisseurs de bases 10 et 2 sur Excel<br>
 Type : Excel<br>
 Langue : Français
